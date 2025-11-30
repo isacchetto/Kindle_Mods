@@ -9,7 +9,7 @@ These patches primarily come from the following repositories:
 - [angelsangita/Koreader-Patches](https://github.com/angelsangita/Koreader-Patches)
 
 ## koreader_patches
-> Hand-picked user patches collected from community sources. Install by copying the chosen `.lua` files to `koreader/patches/`. Toggle a patch off by renaming its file to end with `.disabled`.
+> Hand-picked user patches collected from community sources. Install by copying the chosen `.lua` files to `koreader/patches/`. Toggle a patch off by renaming its file to end with `.disabled`. Grab the matching icons from `icons/` when a patch expects custom artwork.
 
 ![koreader_patches](screenshots/home.png)
 
